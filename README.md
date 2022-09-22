@@ -27,13 +27,13 @@ If the input value is less then 5 password not generated, instead error message 
 
 # Time taken to finish this project :
 
-45 min to finish this project.
+4 hours to finish this project.
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://pure-js-age-calculator.netlify.app/)
+[Live Link !](https://new-random-password-generator.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/blob/2fa3d5c6fe9feb081092f2bc91466a05ee5dc468/image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/random-password-generator/tree/Javascript-projects/Image.demo.PNG)
 
