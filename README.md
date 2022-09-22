@@ -35,5 +35,5 @@ If the input value is less then 5 password not generated, instead error message 
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/random-password-generator/tree/Javascript-projects/Image.demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo.PNG)
 
