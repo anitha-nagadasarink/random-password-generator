@@ -39,3 +39,4 @@ If the input value is less than 5 and more than 20 password not generated, inste
 ![Min Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-1.PNG)
 ![Max Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-2.PNG)
 
+
