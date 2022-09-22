@@ -31,7 +31,7 @@ generateEl.addEventListener('click', () => {
 
 function generatePassword(lower, upper, number, symbol, length) {
     let passwordResult = [];
-    if (length >= 5) {
+    if (length >= 5  && length <= 20) {
         for (let i = 0; i < length; i++) {
             passwordResult.push(lower(), upper(), number(), symbol());
         }
@@ -39,9 +39,10 @@ function generatePassword(lower, upper, number, symbol, length) {
         resultEl.innerText = processedPassword;
 
     } else if (length < 5) {
-        resultEl.innerText = "Password length min 5";
+        resultEl.innerText = "Min Password length 5";
+    } else if (length > 20) {
+        resultEl.innerText = "Max Password length  20";
     }
-
 }
 
 function getRandomLower() {

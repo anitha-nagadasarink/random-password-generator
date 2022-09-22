@@ -4,7 +4,7 @@
 This project developed with pure HTML and CSS mainly focused on Pure Javascript. <br/>
 
 On click of button Random password displayed  in input field and generated password and we can copy the password from input element. 
-If the input value is less then 5 password not generated, instead error message displayed in input element.
+If the input value is less than 5 and more than 20 password not generated, instead error message displayed in input element.
 
 <br/>
 
@@ -27,13 +27,15 @@ If the input value is less then 5 password not generated, instead error message 
 
 # Time taken to finish this project :
 
-45 min to finish this project.
+4 hours to finish this project.
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://pure-js-age-calculator.netlify.app/)
+[Live Link !](https://new-random-password-generator.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/age-calculator-using-pure-JS/blob/2fa3d5c6fe9feb081092f2bc91466a05ee5dc468/image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo.PNG)
+![Min Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-1.PNG)
+![Max Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-2.PNG)
 
